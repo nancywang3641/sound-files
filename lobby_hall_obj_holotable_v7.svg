@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 625 569" width="625" height="569">
+<defs>
+  <linearGradient id="ht-gBand" x1="0" x2="1">
+    <stop offset="0" stop-color="#4f5057"/><stop offset=".1" stop-color="#6f7073"/><stop offset=".3" stop-color="#7d838a"/>
+    <stop offset=".5" stop-color="#8d969d"/><stop offset=".7" stop-color="#7d838a"/><stop offset=".9" stop-color="#6f7073"/><stop offset="1" stop-color="#4f5057"/>
+  </linearGradient>
+  <linearGradient id="ht-gBandV" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#ffffff" stop-opacity=".18"/><stop offset=".6" stop-color="#ffffff" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity=".12"/>
+  </linearGradient>
+  <linearGradient id="ht-gPost" x1="0" x2="1">
+    <stop offset="0" stop-color="#76818d"/><stop offset=".15" stop-color="#7c8996"/><stop offset=".16" stop-color="#dfeaf6"/>
+    <stop offset=".44" stop-color="#d0dcf0"/><stop offset=".45" stop-color="#9aa7bd"/><stop offset=".8" stop-color="#8393a9"/>
+    <stop offset=".81" stop-color="#5b636b"/><stop offset="1" stop-color="#5d686e"/>
+  </linearGradient>
+  <linearGradient id="ht-gPostShade" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#2a282e" stop-opacity=".95"/><stop offset=".12" stop-color="#2a282e" stop-opacity=".75"/>
+    <stop offset=".32" stop-color="#2a282e" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="ht-gRing" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#6b6e7c"/><stop offset=".7" stop-color="#626570"/><stop offset="1" stop-color="#5a5c66"/>
+  </linearGradient>
+  <linearGradient id="ht-gFoot" gradientUnits="userSpaceOnUse" x1="234.5" y1="0" x2="390.5" y2="0">
+    <stop offset="0" stop-color="#6d7781"/><stop offset=".22" stop-color="#9cb2bc"/><stop offset=".38" stop-color="#e2eef3"/>
+    <stop offset=".5" stop-color="#fbfcfd"/><stop offset=".62" stop-color="#e2eef3"/><stop offset=".78" stop-color="#9cb2bc"/><stop offset="1" stop-color="#6d7781"/>
+  </linearGradient>
+  <linearGradient id="ht-gTop" x1="0" x2="1">
+    <stop offset="0" stop-color="#4690f4"/><stop offset=".35" stop-color="#86b3fa"/><stop offset=".5" stop-color="#96bdfb"/>
+    <stop offset=".65" stop-color="#86b3fa"/><stop offset="1" stop-color="#4690f4"/>
+  </linearGradient>
+  <linearGradient id="ht-gUpper" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#3f86ea"/><stop offset="1" stop-color="#78b1f6"/>
+  </linearGradient>
+  <linearGradient id="ht-gSide" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#8db0e6"/><stop offset=".5" stop-color="#9db9e7"/><stop offset="1" stop-color="#a9c0ec"/>
+  </linearGradient>
+  <linearGradient id="ht-gStripe" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#c3f7fe"/><stop offset=".45" stop-color="#b2e4fd"/><stop offset="1" stop-color="#b6d3fb"/>
+  </linearGradient>
+  <linearGradient id="ht-gStripeEdge" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#1b8ff8"/><stop offset="1" stop-color="#1e68d8"/>
+  </linearGradient>
+  <radialGradient id="ht-gHalo" cx="312.5" cy="167" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(312.5 167) scale(178 120) translate(-312.5 -167)">
+    <stop offset=".62" stop-color="#bfeeff" stop-opacity=".9"/><stop offset=".8" stop-color="#9fdcff" stop-opacity=".45"/><stop offset="1" stop-color="#8ccfff" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="ht-gCore" cx=".5" cy=".55" r=".55">
+    <stop offset="0" stop-color="#ffffff"/><stop offset=".7" stop-color="#ffffff"/><stop offset="1" stop-color="#e4fdff"/>
+  </radialGradient>
+  <filter id="ht-fGlow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="5"/></filter>
+  <clipPath id="ht-cSurf"><ellipse cx="312.5" cy="179" rx="284" ry="152"/></clipPath>
+  <clipPath id="ht-cWedgeBand"><path d="M312.5,163 L-817.5,331 L-857.5,-95 L-117.5,-349 Z M312.5,163 L1442.5,331 L1482.5,-95 L742.5,-349 Z"/></clipPath>
+  <clipPath id="ht-cDisc"><path d="M13.5,175 A299,163 0 0 1 611.5,175 L611.5,220 A299,163 0 0 1 13.5,220 Z"/></clipPath>
+  <clipPath id="ht-cRing"><path fill-rule="evenodd" clip-rule="evenodd" d="M66.5,420 A246,134 0 1 0 558.5,420 A246,134 0 1 0 66.5,420 Z M84.5,420 A228,105 0 1 0 540.5,420 A228,105 0 1 0 84.5,420 Z"/></clipPath>
+</defs>
+<g id="ht-base">
+<path d="M62.5,420 A250,138 0 1 0 562.5,420 A250,138 0 1 0 62.5,420 Z M88.5,420 A224,101 0 1 0 536.5,420 A224,101 0 1 0 88.5,420 Z" fill-rule="evenodd" fill="url(#ht-gRing)" stroke="#24232c" stroke-width="8"/>
+<path d="M496,477.9 L489.6,481.8 L482.8,485.6 L475.7,489.2 L468.1,492.7 L460.2,495.9 L451.9,499 L443.4,502 L434.5,504.7 L425.3,507.2 L415.9,509.6 L406.3,511.7 L396.4,513.6 L386.4,515.4 L376.1,516.8 L365.7,518.1 L355.2,519.1 L344.6,520 L334,520.5 L323.2,520.9 L312.5,521 L301.8,520.9 L291,520.5 L280.4,520 L269.8,519.1 L259.3,518.1 L248.9,516.8 L238.6,515.4 L228.6,513.6 L218.7,511.7 L209.1,509.6 L199.7,507.2 L190.5,504.7 L181.6,502 L173.1,499 L164.8,495.9 L156.9,492.7 L149.3,489.2 L142.2,485.6 L135.4,481.8 L129,477.9" stroke="#4d4f58" stroke-width="8" fill="none"/>
+<g clip-path="url(#ht-cRing)" fill="none">
+<ellipse cx="312.5" cy="420" rx="230" ry="106" stroke="#5b5e68" stroke-width="7"/>
+<ellipse cx="312.5" cy="422" rx="241" ry="114" stroke="#adc6d8" stroke-width="11"/>
+<path d="M497.1,495.3 L490.2,499 L482.9,502.6 L475.3,506 L467.4,509.3 L459.2,512.4 L450.7,515.4 L442,518.1 L433,520.7 L423.8,523.1 L414.4,525.3 L404.7,527.3 L394.9,529.1 L385,530.7 L374.9,532.1 L364.7,533.3 L354.3,534.3 L344,535 L333.5,535.6 L323,535.9 L312.5,536 L302,535.9 L291.5,535.6 L281,535 L270.7,534.3 L260.3,533.3 L250.1,532.1 L240,530.7 L230.1,529.1 L220.3,527.3 L210.6,525.3 L201.2,523.1 L192,520.7 L183,518.1 L174.3,515.4 L165.8,512.4 L157.6,509.3 L149.7,506 L142.1,502.6 L134.8,499 L127.9,495.3" stroke="#e6f3f8" stroke-width="7"/>
+<path d="M425.6,522.7 L418.7,524.3 L411.5,525.9 L404.3,527.4 L397,528.8 L389.6,530 L382.2,531.1 L374.6,532.1 L367,533 L359.3,533.8 L351.6,534.5 L343.8,535 L336,535.5 L328.2,535.8 L320.4,535.9 L312.5,536 L304.6,535.9 L296.8,535.8 L289,535.5 L281.2,535 L273.4,534.5 L265.7,533.8 L258,533 L250.4,532.1 L242.8,531.1 L235.4,530 L228,528.8 L220.7,527.4 L213.5,525.9 L206.3,524.3 L199.4,522.7" stroke="#ffffff" stroke-width="5"/>
+</g>
+</g>
+<g id="ht-post">
+<rect x="282.5" y="380" width="60" height="146" fill="url(#ht-gPost)" stroke="#24232c" stroke-width="8"/>
+<rect x="286.5" y="384" width="52" height="142" fill="url(#ht-gPostShade)"/>
+</g>
+<g id="ht-foot">
+<path d="M236.5,517 L240.5,517.6 L244.5,518.2 L248.5,518.8 L252.5,519.3 L256.5,519.8 L260.5,520.2 L264.5,520.7 L268.5,521 L272.5,521.4 L276.5,521.7 L280.5,522 L284.5,522.2 L288.5,522.4 L292.5,522.6 L296.5,522.7 L300.5,522.9 L304.5,522.9 L308.5,523 L312.5,523 L316.5,523 L320.5,522.9 L324.5,522.9 L328.5,522.7 L332.5,522.6 L336.5,522.4 L340.5,522.2 L344.5,522 L348.5,521.7 L352.5,521.4 L356.5,521 L360.5,520.7 L364.5,520.2 L368.5,519.8 L372.5,519.3 L376.5,518.8 L380.5,518.2 L384.5,517.6 L388.5,517 L388.5,547.4 L384.5,548.1 L380.5,548.8 L376.5,549.4 L372.5,550 L368.5,550.5 L364.5,551 L360.5,551.4 L356.5,551.8 L352.5,552.2 L348.5,552.6 L344.5,552.9 L340.5,553.1 L336.5,553.4 L332.5,553.6 L328.5,553.7 L324.5,553.8 L320.5,553.9 L316.5,554 L312.5,554 L308.5,554 L304.5,553.9 L300.5,553.8 L296.5,553.7 L292.5,553.6 L288.5,553.4 L284.5,553.1 L280.5,552.9 L276.5,552.6 L272.5,552.2 L268.5,551.8 L264.5,551.4 L260.5,551 L256.5,550.5 L252.5,550 L248.5,549.4 L244.5,548.8 L240.5,548.1 L236.5,547.4 Z" fill="url(#ht-gFoot)"/>
+<path d="M268.5,521 Q312.5,527 356.5,521" stroke="#34343b" stroke-width="7" fill="none" stroke-linecap="round"/>
+<path d="M437.5,539.5 L429.9,541.8 L422.1,544 L414.2,546.1 L406.2,548 L398,549.7 L389.8,551.2 L381.4,552.7 L373,553.9 L364.5,555 L355.9,555.9 L347.3,556.7 L338.6,557.2 L329.9,557.7 L321.2,557.9 L312.5,558 L303.8,557.9 L295.1,557.7 L286.4,557.2 L277.7,556.7 L269.1,555.9 L260.5,555 L252,553.9 L243.6,552.7 L235.2,551.2 L227,549.7 L218.8,548 L210.8,546.1 L202.9,544 L195.1,541.8 L187.5,539.5" stroke="#24232c" stroke-width="8" fill="none"/>
+</g>
+<g id="ht-top">
+<path id="ht-disc" d="M9.5,175 A303,167 0 0 1 615.5,175 L615.5,220 A303,167 0 0 1 9.5,220 Z" fill="url(#ht-gBand)" stroke="#24232c" stroke-width="8" stroke-linejoin="round"/>
+<path d="M9.5,175 A303,167 0 0 1 615.5,175 L615.5,220 A303,167 0 0 1 9.5,220 Z" fill="url(#ht-gBandV)"/>
+<ellipse cx="312.5" cy="189" rx="298" ry="168" fill="#62656b" clip-path="url(#ht-cDisc)"/>
+<rect x="271.5" y="330" width="82" height="56" fill="#d5dced" clip-path="url(#ht-cDisc)"/>
+<ellipse cx="312.5" cy="180" rx="299" ry="168" fill="#f8fdfe" clip-path="url(#ht-cDisc)"/>
+<ellipse cx="312.5" cy="180" rx="290" ry="158" fill="none" stroke="#d6f2fb" stroke-width="5"/>
+</g>
+<g id="ht-holo" clip-path="url(#ht-cSurf)">
+<ellipse cx="312.5" cy="179" rx="284" ry="152" fill="url(#ht-gSide)"/>
+<path d="M312.5,163 L-797.5,-1 L-842.5,-344 L-117.5,-349 Z" fill="url(#ht-gUpper)"/><path d="M312.5,163 L1422.5,-1 L1467.5,-344 L742.5,-349 Z" fill="url(#ht-gUpper)"/>
+<path d="M28.5,179 A284,152 0 1 0 596.5,179 A284,152 0 1 0 28.5,179 Z M56.9,179 A255.6,136.8 0 1 0 568.1,179 A255.6,136.8 0 1 0 56.9,179 Z" fill-rule="evenodd" fill="#2c74da" clip-path="url(#ht-cWedgeBand)"/>
+<path d="M312.5,163 L-117.5,-349 L742.5,-349 Z" fill="url(#ht-gTop)"/>
+<path d="M312.5,163 L-425.5,711 L312.5,711 Z" fill="#a8c0ec"/><path d="M312.5,163 L1050.5,711 L312.5,711 Z" fill="#a8c0ec"/>
+<ellipse cx="312.5" cy="167" rx="178" ry="120" fill="url(#ht-gHalo)"/>
+<g fill="none" stroke-linecap="butt">
+<path d="M248.4,86.7 L207.4,37.8" stroke="#d3f1fe" stroke-width="8"/>
+<path d="M376.6,86.7 L417.6,37.8" stroke="#d3f1fe" stroke-width="8"/>
+<path d="M181.1,143.6 L47.8,123.9" stroke="#d3f1fe" stroke-width="8"/>
+<path d="M443.9,143.6 L577.2,123.9" stroke="#d3f1fe" stroke-width="8"/>
+<path d="M218.5,232.8 L132.6,296.6" stroke="#2f6fdc" stroke-width="16"/>
+<path d="M406.5,232.8 L492.4,296.6" stroke="#2f6fdc" stroke-width="16"/>
+</g>
+<rect x="282.5" y="250" width="60" height="96" fill="url(#ht-gStripe)"/>
+<path d="M282.5,252 V346 M342.5,252 V346" stroke="url(#ht-gStripeEdge)" stroke-width="10" fill="none"/>
+<rect x="272.5" y="250" width="80" height="11" fill="#1cb3fd"/>
+<rect x="300.5" y="262" width="12" height="80" fill="#d8fbff" opacity=".7"/>
+</g>
+<g id="ht-ring">
+<ellipse cx="312.5" cy="167" rx="138" ry="92" fill="#8fe0ff" opacity=".55" filter="url(#ht-fGlow)"/>
+<ellipse cx="312.5" cy="167" rx="133" ry="88" fill="#fbfeff" stroke="#0d9cfc" stroke-width="10"/>
+<ellipse cx="312.5" cy="166" rx="103" ry="62" fill="#a9f3fe" stroke="#12b2fe" stroke-width="9"/>
+<ellipse cx="312.5" cy="169" rx="88" ry="50" fill="#c6fbff"/>
+<ellipse cx="312.5" cy="171" rx="67" ry="41" fill="url(#ht-gCore)" stroke="#4cefff" stroke-width="6"/>
+<path d="M373.2,188.3 L370.9,191.1 L368.3,193.7 L365.3,196.2 L362,198.6 L358.5,200.8 L354.7,202.9 L350.6,204.7 L346.3,206.4 L341.9,207.9 L337.2,209.1 L332.5,210.1 L327.6,210.9 L322.6,211.5 L317.6,211.9 L312.5,212 L307.4,211.9 L302.4,211.5 L297.4,210.9 L292.5,210.1 L287.8,209.1 L283.1,207.9 L278.7,206.4 L274.4,204.7 L270.3,202.9 L266.5,200.8 L263,198.6 L259.7,196.2 L256.7,193.7 L254.1,191.1 L251.8,188.3" stroke="#c6fbff" stroke-width="8" fill="none"/>
+<ellipse cx="312.5" cy="173" rx="50" ry="27" fill="#ffffff"/>
+</g>
+</svg>
