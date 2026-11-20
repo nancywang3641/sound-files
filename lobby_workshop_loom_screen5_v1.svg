@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 113.1 109" width="113.1" height="109">
+<defs>
+<filter id="lms5-fGlow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<g id="lms5-card">
+<path d="M10,18 Q10,10 18,10 L95.1,10 Q103.1,10 103.1,18 L103.1,91 Q103.1,99 95.1,99 L18,99 Q10,99 10,91 Z" fill="none" stroke="#f6b0ff" stroke-width="7" opacity=".55" filter="url(#lms5-fGlow)"/>
+<path d="M10,18 Q10,10 18,10 L95.1,10 Q103.1,10 103.1,18 L103.1,91 Q103.1,99 95.1,99 L18,99 Q10,99 10,91 Z" fill="#9147b3" fill-opacity=".86"/>
+<path d="M10,17 Q10,10 17,10 L96.1,10 Q103.1,10 103.1,17 L103.1,43 Q103.1,50 96.1,50 L17,50 Q10,50 10,43 Z" fill="#ffffff" opacity=".13"/>
+<path d="M17.5,23.9 Q17.5,18.9 22.5,18.9 L90.7,18.9 Q95.7,18.9 95.7,23.9 L95.7,85.1 Q95.7,90.1 90.7,90.1 L22.5,90.1 Q17.5,90.1 17.5,85.1 Z" fill="none" stroke="#d58af0" stroke-width="1.6" opacity=".55"/>
+<path d="M17.5,50 L42.6,50 L51.9,36.7 L95.7,36.7" fill="none" stroke="#d58af0" stroke-width="1.3" opacity=".5"/>
+<path d="M33.3,90.1 L33.3,65.2 L65.9,65.2 L75.2,76.7 L95.7,76.7" fill="none" stroke="#d58af0" stroke-width="1.3" opacity=".5"/>
+<path d="M61.2,18.9 L61.2,36.7" fill="none" stroke="#d58af0" stroke-width="1.3" opacity=".5"/>
+<path d="M10,18 Q10,10 18,10 L95.1,10 Q103.1,10 103.1,18 L103.1,91 Q103.1,99 95.1,99 L18,99 Q10,99 10,91 Z" fill="none" stroke="#f6b0ff" stroke-width="2.6"/>
+</g>
+</svg>

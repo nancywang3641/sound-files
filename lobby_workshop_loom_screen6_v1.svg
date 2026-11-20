@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 151.7 132.8" width="151.7" height="132.8">
+<defs>
+<filter id="lms6-fGlow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<g id="lms6-card">
+<path d="M10,18 Q10,10 18,10 L133.7,10 Q141.7,10 141.7,18 L141.7,114.8 Q141.7,122.8 133.7,122.8 L18,122.8 Q10,122.8 10,114.8 Z" fill="none" stroke="#b4fdff" stroke-width="7" opacity=".55" filter="url(#lms6-fGlow)"/>
+<path d="M10,18 Q10,10 18,10 L133.7,10 Q141.7,10 141.7,18 L141.7,114.8 Q141.7,122.8 133.7,122.8 L18,122.8 Q10,122.8 10,114.8 Z" fill="#12b9bd" fill-opacity=".86"/>
+<path d="M10,17 Q10,10 17,10 L134.7,10 Q141.7,10 141.7,17 L141.7,53.7 Q141.7,60.7 134.7,60.7 L17,60.7 Q10,60.7 10,53.7 Z" fill="#ffffff" opacity=".13"/>
+<path d="M20.5,26.3 Q20.5,21.3 25.5,21.3 L126.2,21.3 Q131.2,21.3 131.2,26.3 L131.2,106.5 Q131.2,111.5 126.2,111.5 L25.5,111.5 Q20.5,111.5 20.5,106.5 Z" fill="none" stroke="#7ff0f2" stroke-width="1.6" opacity=".55"/>
+<path d="M20.5,60.7 L56.1,60.7 L69.3,43.8 L131.2,43.8" fill="none" stroke="#7ff0f2" stroke-width="1.3" opacity=".5"/>
+<path d="M42.9,111.5 L42.9,79.9 L89,79.9 L102.2,94.6 L131.2,94.6" fill="none" stroke="#7ff0f2" stroke-width="1.3" opacity=".5"/>
+<path d="M82.5,21.3 L82.5,43.8" fill="none" stroke="#7ff0f2" stroke-width="1.3" opacity=".5"/>
+<path d="M10,18 Q10,10 18,10 L133.7,10 Q141.7,10 141.7,18 L141.7,114.8 Q141.7,122.8 133.7,122.8 L18,122.8 Q10,122.8 10,114.8 Z" fill="none" stroke="#b4fdff" stroke-width="2.6"/>
+</g>
+</svg>
